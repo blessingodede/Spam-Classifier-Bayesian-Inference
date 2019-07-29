@@ -9,7 +9,7 @@ In this mission we will be using the Naive Bayes algorithm to create a model tha
 Being able to identify spam messages is a binary classification problem as messages are classified as either 'Spam' or 'Not Spam' and nothing else. Also, this is a supervised learning problem, as we will be feeding a labelled dataset into the model, that it can learn from, to make future predictions. 
 
 
-# Overview
+### Overview ###
 
 This project has been broken down in to the following steps: 
 
@@ -26,3 +26,7 @@ This project has been broken down in to the following steps:
 - `Step 5`: Naive Bayes implementation using scikit-learn
 - `Step 6`: Evaluating our model
 - `Step 7`: Conclusion
+
+### Understanding our dataset ### 
+
+We will be using a dataset originally compiled and posted on the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. If you're interested, you can review the [abstract](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) and the original [compressed data file](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/) on the UCI site. However, you can download the dataset `SMSSpamCollection` on this file
