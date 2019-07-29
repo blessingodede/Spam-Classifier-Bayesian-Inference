@@ -8,6 +8,18 @@ In this mission we will be using the Naive Bayes algorithm to create a model tha
 
 Being able to identify spam messages is a binary classification problem as messages are classified as either 'Spam' or 'Not Spam' and nothing else. Also, this is a supervised learning problem, as we will be feeding a labelled dataset into the model, that it can learn from, to make future predictions. 
 
+### Installation ###
+
+This project requires **Python 3.7 ** and the following Python libraries installed:
+
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [scikit-learn](https://scikit-learn.org/)
+You will also need to have software installed to run and execute an iPython Notebook
+
+We recommend students install [Anaconda](https://docs.anaconda.com/), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 
 ### Overview ###
 
